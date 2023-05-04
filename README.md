@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Miguel (@bravomiguel)
 
-😄 I'm a full-stack software engineer specialising in React, Redux (front-end), and Node/Express, Serverless (back-end).
+👨🏽‍💻 I'm a full-stack software engineer specialising in React, Redux (front-end), and Node/Express, Serverless (back-end).
 
 🛠 Other tech in my toolbox: TanStack Query, GraphQL, Auth0, MongoDB, Supabase (Postgres), PWA's, Workbox.
 
