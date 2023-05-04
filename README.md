@@ -6,7 +6,7 @@
 
 💭 I'm Ex-KPMG and a tech entrepreneur; co-founder of friend-finding app (Fethr) tackling Lockdown loneliness in London.
 
-👀 I'm interested in AI-powered apps (I've got a Data Science Master's), and currently tinkering with apps harnessing ChatGPT.
+🤖 I'm interested in AI-powered apps (I've got a Data Science Master's), and currently tinkering with apps harnessing ChatGPT.
 
 📫 How to reach me: [email](mailto:miguelbravobalestrini@gmail.com)
 
