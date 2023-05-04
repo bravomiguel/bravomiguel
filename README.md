@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Miguel (@bravomiguel),
+### 👋 Hi there, I'm Miguel (@bravomiguel)
 
 😄 I'm a full-stack software engineer specialising in React, Redux (front-end), and Node/Express, Serverless (back-end).
 
