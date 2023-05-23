@@ -8,7 +8,7 @@
 
 🌱 I've got a background in Data Science / AI, and excited about building AI-powered apps (e.g. with ChatGPT, Dall-E etc)
 
-💬 I love languages and travelling, and can speak to you in English, Spanish and French 🇺🇸 🇪🇸 🇫🇷
+💬 I love languages, and can speak to you in English, Spanish and French 🇺🇸 🇪🇸 🇫🇷
 
 📫 Feel free to reach out: [email](mailto:miguelbravobalestrini@gmail.com)
 
